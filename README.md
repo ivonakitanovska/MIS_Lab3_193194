@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Да се имплементира апликација за термини за колоквиуми и испити. 
 
-A few resources to get you started if this is your first Flutter project:
+Темините студентот да може да ги додава со копче во AppBar. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Сегментот за додавање да биде на истиот екран со листата на колоквиуми. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Да се користи Листа од картички во која со Bold фонт ќе биде напишано името на предметот, а со сиви букви под него, датумот и времето.
